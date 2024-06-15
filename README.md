@@ -23,9 +23,10 @@ Güncel hava durumu, ekonomi ve döviz bilgilerini sağlamak.
 Open AI ile gelişmiş dil modeli kullanımı ile doğal ve zengin dilde haber yazma.
 Kullanıcı dostu arayüz ile kolay kullanım.
 Kullanılan Apiler ile güncel bilgiye ulaşma
-Bu proje sayesinde profesyoneller gibi gazete haberleri oluşturmak ve güncel bilgilere erişmek kolay olacak! 🌟
 
 ![WhatsApp Image 2024-05-30 at 01 22 03](https://github.com/samedalmci/DailyAI/assets/172913150/5fb1102c-f2d8-4945-bc27-ba908f414083)
+
+🌟Aynı zamanda proje dosylarının içinde bulunan TextGenWitheML dosyası makine öğrenmesi sonraki kelime tahmini ve haber oluşturma projeside var. 
 
 Projeyi hayata geçiren ekip:
 

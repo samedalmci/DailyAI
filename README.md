@@ -27,11 +27,13 @@ Bu proje sayesinde profesyoneller gibi gazete haberleri oluşturmak ve güncel b
 
 ![WhatsApp Image 2024-05-30 at 01 22 03](https://github.com/samedalmci/DailyAI/assets/172913150/5fb1102c-f2d8-4945-bc27-ba908f414083)
 
-Projeyi benimle birlikte hayata geçiren ekip arkadaşlarım:
+Projeyi hayata geçiren ekip:
 
-@Berat
-[İsim 2]
-[İsim 3]
+Melik Samed ALMACI
+Egemen ŞAHİN
+Berat Can KATANALP
+
+
 Emeği geçen herkese teşekkür ederim. Projemiz hakkında daha fazla bilgi almak ve destek olmak için bağlantı kurmaktan çekinmeyin. 💬
 
-#Teknoloji #YapayZeka #LLM #Haber #GömülüSistemler #Inovasyon
+
